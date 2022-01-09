@@ -1,1 +1,3 @@
-# h8dsft_Inferential
+- Lakukan hypothesis testing terhadap dataset 'fix_clean_inferential_covid_indo.csv'
+- Ambil kesimpulan dari hasil analisa dataset 'fix_clean_inferential_covid_indo.csv'
+- Sebelumnya dataset berikut sudah di handling pada non graded challenge 11
